@@ -2,12 +2,12 @@
   "name": "@arifszn/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.6.0",
-  "homepage": "https://carettacaretta11.github.io/portfolio",
+  "homepage": "https://carettacaretta11.github.io/gitprofile",
   "license": "MIT",
   "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CarettaCaretta11/profile.git"
+    "url": "https://github.com/arifszn/gitprofile.git"
   },
   "bugs": {
     "url": "https://github.com/arifszn/gitprofile/issues"
