@@ -16,8 +16,7 @@ const config = {
     email: 'kamranmehdiyev02@kaist.ac.kr',
   },
   resume: {
-    fileUrl:
-      'https://www.dropbox.com/scl/fi/ifigrdlhhmybye868wumk/resume.pdf?rlkey=v9f2atui4imq84v2okctq0bbj&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '',
   },
   skills: [
     'Django',
